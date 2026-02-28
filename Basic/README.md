@@ -1,3 +1,4 @@
+```text
 1. Introduction & Basics
     • What is Python
     • History of Python
@@ -10,3 +11,4 @@
     • Data Types overview
     • Variables and Constants
     • Input & Output (input(), print())
+```
