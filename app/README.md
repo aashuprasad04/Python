@@ -20,5 +20,7 @@ Write Python app → buttons, inputs, outputs
 
 Install Buildozer → prepare .spec file
 
-Run Buildoz
+Run Buildozer → Python code ko .apk me convert karo
+
+Install .apk on Android → test app
 ```
